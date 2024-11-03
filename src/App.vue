@@ -314,25 +314,23 @@ const testimonials = new Array(3).fill({
                 <div class="grid justify-center">
                     <h3 class="mb-4 font-bold text-left text-white cursor-pointer">About Us</h3>
                     <ul class="text-left text-white">
-                        <li class="mb-2 cursor-pointer">Pricing</li>
+                        <li class="mb-2 cursor-pointer">Our Mission</li>
                         <li class="mb-2 cursor-pointer">FAQ</li>
-                        <li class="mb-2 cursor-pointer">Blogs</li>
-                        <li class="mb-2 cursor-pointer">Testimonials</li>
+                        <li class="mb-2 cursor-pointer">The Team</li>
                         <li class="mb-2 cursor-pointer">Contact Us</li>
                         </ul>
                 </div>
                 <div class="grid justify-center">
                     <h3 class="mb-4 font-bold text-left text-white cursor-pointer">Features</h3>
                     <ul class="text-left text-white">
-                        <li class="mb-2 cursor-pointer">Resume Templates</li>
-                        <li class="mb-2 cursor-pointer">Multi-lingual Support</li>
-                        <li class="mb-2 cursor-pointer">AI-Powered Content</li>
+                        <li class="mb-2 cursor-pointer">Casefiles</li>
+                        <li class="mb-2 cursor-pointer">Daily Puzzles</li>
                     </ul>
                 </div>
                 <div class="grid justify-center">
                     <h3 class="mb-4 font-bold text-left text-white cursor-pointer">Support</h3>
                     <ul class="text-left text-white">
-                        <li class="mb-2 cursor-pointer">Affiliate Program</li>
+                        <li class="mb-2 cursor-pointer">Join Our Community</li>
                         <li class="mb-2 cursor-pointer">Terms and Conditions</li>
                         <li class="mb-2 cursor-pointer">Privacy Policy</li>
                         </ul>
@@ -341,7 +339,23 @@ const testimonials = new Array(3).fill({
 		</div>
         <div class="w-full h-[1px] bg-white mt-12 mb-8">
         </div>
-        <div class="w-full text-left text-white">© 2024 NextFront Technologies Pvt Ltd. All rights reserved.</div>
+        <div class="flex w-full text-left text-white">
+          © 2024 Jinkies Pvt Ltd. All rights reserved.
+          <div class="flex gap-4 ml-auto text-white">
+            <svg width="10" height="18" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M9.5 3H6.5C5.9477 3 5.5 3.44772 5.5 4V7H9.5C9.6137 6.99748 9.7216 7.0504 9.7892 7.1419C9.8568 7.2334 9.8758 7.352 9.84 7.46L9.1 9.66C9.0318 9.8619 8.8431 9.9984 8.63 10H5.5V17.5C5.5 17.7761 5.2761 18 5 18H2.5C2.22386 18 2 17.7761 2 17.5V10H0.5C0.22386 10 0 9.7761 0 9.5V7.5C0 7.2239 0.22386 7 0.5 7H2V4C2 1.79086 3.7909 0 6 0H9.5C9.7761 0 10 0.22386 10 0.5V2.5C10 2.77614 9.7761 3 9.5 3Z" fill="#F2F4F8"/>
+            </svg>
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M13 0H5C2.23858 0 0 2.23858 0 5V13C0 15.7614 2.23858 18 5 18H13C15.7614 18 18 15.7614 18 13V5C18 2.23858 15.7614 0 13 0ZM16.25 13C16.2445 14.7926 14.7926 16.2445 13 16.25H5C3.20735 16.2445 1.75549 14.7926 1.75 13V5C1.75549 3.20735 3.20735 1.75549 5 1.75H13C14.7926 1.75549 16.2445 3.20735 16.25 5V13ZM13.75 5.25C14.3023 5.25 14.75 4.80228 14.75 4.25C14.75 3.69772 14.3023 3.25 13.75 3.25C13.1977 3.25 12.75 3.69772 12.75 4.25C12.75 4.80228 13.1977 5.25 13.75 5.25ZM9 4.5C6.51472 4.5 4.5 6.51472 4.5 9C4.5 11.4853 6.51472 13.5 9 13.5C11.4853 13.5 13.5 11.4853 13.5 9C13.5027 7.8057 13.0294 6.65957 12.1849 5.81508C11.3404 4.97059 10.1943 4.49734 9 4.5ZM6.25 9C6.25 10.5188 7.4812 11.75 9 11.75C10.5188 11.75 11.75 10.5188 11.75 9C11.75 7.4812 10.5188 6.25 9 6.25C7.4812 6.25 6.25 7.4812 6.25 9Z" fill="#F2F4F8"/>
+            </svg>
+            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M17.9737 2.2174C17.5093 2.83692 16.9479 3.37733 16.3112 3.81776C16.3112 3.97959 16.3112 4.14142 16.3112 4.31225C16.3163 7.2511 15.1424 10.0691 13.0527 12.1345C10.9629 14.1999 8.13206 15.3399 5.19491 15.2989C3.49685 15.3046 1.82053 14.9169 0.297277 14.1661C0.215137 14.1302 0.162166 14.049 0.162476 13.9593V13.8604C0.162476 13.7313 0.267087 13.6267 0.396127 13.6267C2.06528 13.5716 3.67488 12.9929 4.9972 11.9724C3.48639 11.9419 2.12705 11.0469 1.50146 9.6707C1.46987 9.5956 1.4797 9.5093 1.52743 9.4432C1.57515 9.3771 1.65386 9.3407 1.73511 9.3471C2.19428 9.3932 2.65804 9.3505 3.10106 9.2212C1.43325 8.875 0.180067 7.4904 0.000716559 5.7957C-0.00565344 5.7144 0.0307765 5.6357 0.0968565 5.5879C0.162926 5.5402 0.249097 5.5303 0.324237 5.562C0.771797 5.7595 1.25495 5.8635 1.7441 5.8676C0.282696 4.90846 -0.348534 3.08405 0.207406 1.42622C0.264796 1.26513 0.402667 1.14612 0.570356 1.11294C0.738037 1.07975 0.910817 1.13728 1.02518 1.26439C2.99725 3.36325 5.7069 4.61396 8.58276 4.75279C8.50916 4.45885 8.47296 4.15676 8.47496 3.85372C8.50186 2.26472 9.48506 0.849212 10.9643 0.269872C12.4434 -0.309458 14.1258 0.0620322 15.2239 1.21044C15.9723 1.06785 16.6959 0.816452 17.3716 0.464212C17.4211 0.433312 17.4839 0.433312 17.5334 0.464212C17.5643 0.513732 17.5643 0.576522 17.5334 0.626042C17.2061 1.37552 16.6532 2.00412 15.9518 2.42419C16.566 2.35296 17.1694 2.20807 17.7491 1.99264C17.7979 1.95942 17.862 1.95942 17.9108 1.99264C17.9517 2.01134 17.9823 2.04711 17.9944 2.09042C18.0065 2.13373 17.9989 2.18018 17.9737 2.2174Z" fill="#F2F4F8"/>
+            </svg>
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M2 0H16C17.1046 0 18 0.89543 18 2V16C18 17.1046 17.1046 18 16 18H2C0.89543 18 0 17.1046 0 16V2C0 0.89543 0.89543 0 2 0ZM5 15C5.27614 15 5.5 14.7761 5.5 14.5V7.5C5.5 7.2239 5.27614 7 5 7H3.5C3.22386 7 3 7.2239 3 7.5V14.5C3 14.7761 3.22386 15 3.5 15H5ZM4.25 6C3.42157 6 2.75 5.32843 2.75 4.5C2.75 3.67157 3.42157 3 4.25 3C5.07843 3 5.75 3.67157 5.75 4.5C5.75 5.32843 5.07843 6 4.25 6ZM14.5 15C14.7761 15 15 14.7761 15 14.5V9.9C15.0325 8.3108 13.8576 6.95452 12.28 6.76C11.177 6.65925 10.1083 7.1744 9.5 8.1V7.5C9.5 7.2239 9.2761 7 9 7H7.5C7.2239 7 7 7.2239 7 7.5V14.5C7 14.7761 7.2239 15 7.5 15H9C9.2761 15 9.5 14.7761 9.5 14.5V10.75C9.5 9.9216 10.1716 9.25 11 9.25C11.8284 9.25 12.5 9.9216 12.5 10.75V14.5C12.5 14.7761 12.7239 15 13 15H14.5Z" fill="#F2F4F8"/>
+            </svg>
+          </div>
+        </div>
 	</div>
 
 	</footer>
